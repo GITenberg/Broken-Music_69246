@@ -1,0 +1,30 @@
+_repo: Broken-Music_69246
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bottome, Phyllis
+    alias: Forbes Dennis, Phyllis
+    birthdate: 1882
+    deathdate: 1963
+    gutenberg_agent_id: '4742'
+    url: http://www.gutenberg.org/2009/agents/4742
+    wikipedia: https://en.wikipedia.org/wiki/Phyllis_Bottome
+description: ''
+gutenberg_issued: '2022-10-27'
+identifiers:
+  gutenberg: '69246'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/nyp.33433074929278
+pgterms:marc905: 20201005102542bottome
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Mardi Desjardin, Krista Zaleski, and the online Distributed Proofreaders
+  Canada team at https://www.pgdpcanada.net
+publication_note: 'United States: Houghton Mifflin Company,1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: '"Broken Music"'
+url: http://www.gutenberg.org/ebooks/69246
