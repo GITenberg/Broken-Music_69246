@@ -1,5 +1,8 @@
 _repo: Broken-Music_69246
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69246-h/images/cover.jpg
 creator:
   author:
     agent_name: Bottome, Phyllis
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4742
     wikipedia: https://en.wikipedia.org/wiki/Phyllis_Bottome
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69246#Broken-Music
 gutenberg_issued: '2022-10-27'
 identifiers:
   gutenberg: '69246'
